@@ -1,0 +1,29 @@
+{
+  "name": "Sand",
+  "description": "Warm editorial — light, readable, serif-forward",
+  "theme": "light",
+  "colors": {
+    "brand": "#B45309",
+    "brand-light": "#D97706",
+    "bg-base": "#FAFAF9",
+    "bg-surface": "#FFFFFF",
+    "bg-elevated": "#FFFFFF",
+    "bg-highest": "#F5F5F4",
+    "text-primary": "#1C1917",
+    "text-secondary": "#78716C",
+    "text-disabled": "#A8A29E",
+    "border": "#E7E5E4",
+    "border-strong": "#D6D3D1",
+    "success": "#16A34A",
+    "warning": "#CA8A04",
+    "error": "#DC2626"
+  },
+  "typography": {
+    "font-sans": "Inter",
+    "font-mono": "JetBrains Mono",
+    "font-serif": "Newsreader"
+  },
+  "spacing": "spacious",
+  "radius": { "sm": "2px", "md": "4px", "lg": "6px" },
+  "separation": "borders"
+}

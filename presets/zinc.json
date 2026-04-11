@@ -1,0 +1,28 @@
+{
+  "name": "Zinc",
+  "description": "Developer tool — dark, precise, information-dense",
+  "theme": "dark",
+  "colors": {
+    "brand": "#3B82F6",
+    "brand-light": "#60A5FA",
+    "bg-base": "#09090B",
+    "bg-surface": "#0F0F12",
+    "bg-elevated": "#18181B",
+    "bg-highest": "#27272A",
+    "text-primary": "#F1F5F9",
+    "text-secondary": "#94A3B8",
+    "text-disabled": "#475569",
+    "border": "#27272A",
+    "border-strong": "#3F3F46",
+    "success": "#22C55E",
+    "warning": "#EAB308",
+    "error": "#EF4444"
+  },
+  "typography": {
+    "font-sans": "Geist Sans",
+    "font-mono": "Geist Mono"
+  },
+  "spacing": "comfortable",
+  "radius": { "sm": "4px", "md": "6px", "lg": "8px" },
+  "separation": "borders"
+}

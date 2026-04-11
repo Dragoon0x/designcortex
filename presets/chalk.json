@@ -1,0 +1,28 @@
+{
+  "name": "Chalk",
+  "description": "Clean SaaS — light, functional, clear hierarchy",
+  "theme": "light",
+  "colors": {
+    "brand": "#2563EB",
+    "brand-light": "#3B82F6",
+    "bg-base": "#FFFFFF",
+    "bg-surface": "#FFFFFF",
+    "bg-elevated": "#FFFFFF",
+    "bg-highest": "#F9FAFB",
+    "text-primary": "#111827",
+    "text-secondary": "#6B7280",
+    "text-disabled": "#9CA3AF",
+    "border": "#E5E7EB",
+    "border-strong": "#D1D5DB",
+    "success": "#059669",
+    "warning": "#D97706",
+    "error": "#DC2626"
+  },
+  "typography": {
+    "font-sans": "Plus Jakarta Sans",
+    "font-mono": "JetBrains Mono"
+  },
+  "spacing": "comfortable",
+  "radius": { "sm": "6px", "md": "8px", "lg": "12px" },
+  "separation": "shadows"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Carbon",
+  "description": "Premium dark — minimal, luxurious, restrained",
+  "theme": "dark",
+  "colors": {
+    "brand": "#C9A96E",
+    "brand-light": "#D4BC8A",
+    "bg-base": "#0A0A0A",
+    "bg-surface": "#141414",
+    "bg-elevated": "#1F1F1F",
+    "bg-highest": "#2A2A2A",
+    "text-primary": "#F5F0EB",
+    "text-secondary": "#A39E99",
+    "text-disabled": "#525049",
+    "border": "#2A2A2A",
+    "border-strong": "#3D3D3D",
+    "success": "#4ADE80",
+    "warning": "#FACC15",
+    "error": "#F87171"
+  },
+  "typography": {
+    "font-sans": "Libre Franklin",
+    "font-serif": "Instrument Serif"
+  },
+  "spacing": "spacious",
+  "radius": { "sm": "0px", "md": "0px", "lg": "0px" },
+  "separation": "background-contrast"
+}

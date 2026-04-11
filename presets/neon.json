@@ -1,0 +1,28 @@
+{
+  "name": "Neon",
+  "description": "Bold dark — high energy, high contrast, expressive",
+  "theme": "dark",
+  "colors": {
+    "brand": "#A855F7",
+    "brand-light": "#C084FC",
+    "bg-base": "#0C0A1A",
+    "bg-surface": "#12101F",
+    "bg-elevated": "#1A1830",
+    "bg-highest": "#252240",
+    "text-primary": "#EDE9FE",
+    "text-secondary": "#A78BFA",
+    "text-disabled": "#4C3D80",
+    "border": "#2E2A50",
+    "border-strong": "#453E70",
+    "success": "#34D399",
+    "warning": "#FBBF24",
+    "error": "#FB7185"
+  },
+  "typography": {
+    "font-sans": "Space Grotesk",
+    "font-mono": "Space Mono"
+  },
+  "spacing": "comfortable",
+  "radius": { "sm": "4px", "md": "6px", "lg": "10px" },
+  "separation": "borders"
+}

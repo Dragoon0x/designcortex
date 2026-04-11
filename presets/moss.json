@@ -1,0 +1,28 @@
+{
+  "name": "Moss",
+  "description": "Organic — earthy, calming, generous spacing",
+  "theme": "light",
+  "colors": {
+    "brand": "#2D6A4F",
+    "brand-light": "#40916C",
+    "bg-base": "#FAF9F6",
+    "bg-surface": "#FFFFFF",
+    "bg-elevated": "#FFFFFF",
+    "bg-highest": "#F0EFEC",
+    "text-primary": "#1B1B18",
+    "text-secondary": "#6B7264",
+    "text-disabled": "#A3A89C",
+    "border": "#DDD9D0",
+    "border-strong": "#C4BFB6",
+    "success": "#2D6A4F",
+    "warning": "#B45309",
+    "error": "#C41E3A"
+  },
+  "typography": {
+    "font-sans": "DM Sans",
+    "font-mono": "DM Mono"
+  },
+  "spacing": "spacious",
+  "radius": { "sm": "4px", "md": "8px", "lg": "12px" },
+  "separation": "borders"
+}
