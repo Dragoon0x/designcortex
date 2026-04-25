@@ -51,16 +51,16 @@ That's it.
 
 | Section | What It Covers |
 |---------|---------------|
-| §1 Typography | Letter-spacing by size, line-height by size, weight hierarchy, responsive clamp() formulas, text rendering, paragraph spacing, reading width |
-| §2 Color | State overlay opacities (hover/focus/pressed/disabled), dark mode text, dark mode surfaces, brand color adaptation |
-| §3 Spacing | Base-4 scale, component padding lookup table, section spacing, gap vs margin decision tree, fluid spacing |
-| §4 Shadow | 6-level shadow scale, element-to-shadow mapping, dark mode shadow strategy, border vs shadow decision |
-| §5 Motion | Duration by interaction type, named easing curves, exit rule, reduced motion, animatable properties |
-| §6 States | Focus ring spec, button state CSS, input state table, touch target sizes, tap area extension |
-| §7 Layout | Container widths by content type, z-index system, aspect ratios, breakpoints, clamp formula |
-| §8 Anti-Slop | 25-point checklist to detect averaged-out AI output |
-| §9 Quick Ref | The 5 values Claude gets wrong most, the 5 values that signal quality |
-| §10 Presets | 6 design system configurations |
+| 1 Typography | Letter-spacing by size, line-height by size, weight hierarchy, responsive clamp() formulas, text rendering, paragraph spacing, reading width |
+| 2 Color | State overlay opacities (hover/focus/pressed/disabled), dark mode text, dark mode surfaces, brand color adaptation |
+| 3 Spacing | Base-4 scale, component padding lookup table, section spacing, gap vs margin decision tree, fluid spacing |
+| 4 Shadow | 6-level shadow scale, element-to-shadow mapping, dark mode shadow strategy, border vs shadow decision |
+| 5 Motion | Duration by interaction type, named easing curves, exit rule, reduced motion, animatable properties |
+| 6 States | Focus ring spec, button state CSS, input state table, touch target sizes, tap area extension |
+| 7 Layout | Container widths by content type, z-index system, aspect ratios, breakpoints, clamp formula |
+| 8 Anti-Slop | 25-point checklist to detect averaged-out AI output |
+| 9 Quick Ref | The 5 values Claude gets wrong most, the 5 values that signal quality |
+| 10 Presets | 6 design system configurations |
 
 ### Presets
 
